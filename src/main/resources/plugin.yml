@@ -1,0 +1,11 @@
+name: ReplankChat
+version: 1.0
+author: reem
+main: me.reem.ReplankChat
+api-version: 1.8.8
+commands:
+  rank:
+    permission: rank.use
+    description: Sets somebody's rank.
+    usage: /<command>
+    aliases: grant
